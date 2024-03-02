@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.alex.edudus.ui.fragment.home.HomeFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_board"
+        android:name="com.alex.edudus.ui.fragment.dashboard.DashboardFragment"
+        android:label="@string/handwriting_board"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/nav_paper"
+        android:name="com.alex.edudus.ui.fragment.notifications.NotificationsFragment"
+        android:label="@string/bs_paper"
+        tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.alex.edudus.ui.fragment.AboutFragment"
+        android:label="@string/about"
+        tools:layout="@layout/frg_about" />
+</navigation>

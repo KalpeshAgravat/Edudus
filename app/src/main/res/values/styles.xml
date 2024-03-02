@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextBold" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/textBlack</item>
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="fontFamily">@font/mukta_bold</item>
+    </style>
+
+    <style name="TextNormal" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/textBlack</item>
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="fontFamily">@font/mukta_regular</item>
+    </style>
+
+    <style name="TextHint" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/purple_500</item>
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="fontFamily">@font/mukta_medium</item>
+    </style>
+</resources>

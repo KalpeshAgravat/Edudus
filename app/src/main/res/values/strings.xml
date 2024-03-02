@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Edudus</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="connection_to_pen">Connection to Pen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connect_fail_please_retry">Connect fail please retry</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="setting_header">Settings</string>
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="setting_paper_title">Paper Size</string>
+    <string name="setting_dot_title">Dot Size</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="trun_on_pen">Trun on the power and connect your smart pen</string>
+    <string name="nearby_devices">Nearby Devices</string>
+    <string name="syncing_offline_data">Syncing Offline Data</string>
+    <string name="warning_this_action_cannot_be_undone">Warning: This Action Cannot Be Undone</string>
+    <string name="notebook">NoteBook</string>
+    <string name="handwriting">HandWriting Board</string>
+
+    <string name="syncing_complete">Syncing Complete</string>
+    <string name="bs_paper">B5 Paper</string>
+    <string name="welcome_message">Welcome to app_name Ro begin using, please write on NoteBook, Handwriting Board, or B5 paper to activate and view the respective products.</string>
+    <string name="copy_to_clipboard">copy to clipboard</string>
+    <string name="done">done</string>
+    <string name="connection_is_successful">connection is successful.</string>
+    <string name="disconnect">disconnect</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="handwriting_board">HandWriting Board</string>
+    <string name="caption_handwrite">Handwrite your digital destiny.</string>
+    <string name="caption1_handwrite">Write on pad, sync with your phone.</string>
+    <string name="login_with_your_email">Login with your email</string>
+    <string name="remeber_me">Remeber Me</string>
+    <string name="about">About</string>
+
+    <!--"Wirelessly jot down your thoughts with ease."
+    "Seamlessly connect, effortlessly write."
+    "The power of pen and phone, united."
+    "Ink meets innovation: Note-taking redefined."
+    "No wires, just words: Bluetooth pen at your service."
+    "Write on pad, sync with your phone."
+    "Handwrite your digital destiny."
+    "Unleash the magic of Bluetooth: Write, sync, repeat."
+    "Pen and phone: A match made in productivity heaven."
+    "Bridge the gap between analog and digital with our Bluetooth pen."-->
+
+
+</resources>
